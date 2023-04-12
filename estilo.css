@@ -7,16 +7,21 @@
 body{
     background: hsl(30, 38%, 92%);
 }
+section{
+    display; flex;
+    align-items: center;
+    justiffy-content: center;
+}
 div.principal{
     border-radius: 10px;
     overflow: hidden;
+    
 }
 .principal{
     margin: auto;
     height: auto;
     width: 550px;
     display: flex;
-    transform: translateY(27%);
 }
 
 .secao{
