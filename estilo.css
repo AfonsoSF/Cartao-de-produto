@@ -8,9 +8,9 @@ body{
     background: hsl(30, 38%, 92%);
 }
 section{
-    display; flex;
-    align-items: center;
-    justiffy-content: center;
+    position: absolute;
+    top: 50%;
+    margin-top: -25px;
 }
 div.principal{
     border-radius: 10px;
