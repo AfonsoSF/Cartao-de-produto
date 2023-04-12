@@ -52,6 +52,7 @@ p, .preco2{
 }
 button{
     text-align: center;
+    color: #fff;
     background: hsl(158, 36%, 37%);
     margin: 24px;
     padding: 15px 70px;
