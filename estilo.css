@@ -6,6 +6,10 @@
 }
 body{
     background: hsl(30, 38%, 92%);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 div.principal{
     border-radius: 10px;
@@ -16,7 +20,6 @@ div.principal{
     height: auto;
     width: 550px;
     display: flex;
-    transform: translateY(27%);
 }
 
 .secao{
